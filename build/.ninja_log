@@ -1,0 +1,7 @@
+# ninja log v7
+2	11	1788962838045025733	CMakeFiles/statlab.dir/src/main.c.o	4adba48f978bd7b6
+11	38	1788962838054025715	statlab	628353c240fbae18
+1	156	1788619885870197877	CMakeFiles/statlab.dir/src/utils.c.o	fa183dfc877ac426
+18	109	1792861770456408845	CMakeFiles/statlab.dir/src/utils.c.o	fa183dfc877ac426
+17	110	1792861770455408842	CMakeFiles/statlab.dir/src/main.c.o	4adba48f978bd7b6
+110	147	1792861770548846307	statlab	8e3975b02f2795e
